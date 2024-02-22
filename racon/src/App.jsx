@@ -3,6 +3,7 @@ import {BrowserRouter,Routes, Route, Switch} from 'react-router-dom';
 import Home from './pages/Home';
 import Schedule from './pages/Services'
 import NavBar from './Components/NavBar/NavBar';
+import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
   return (
