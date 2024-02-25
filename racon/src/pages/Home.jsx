@@ -35,7 +35,7 @@ export default function Home()
                                     <Card.Text style= {{fontStyle:'italic', fontWeight:'300'}}>
                                     "To identify, analyze and recruit key resources that empower business to achieve their organizational goals, becoming their valued partner in success."
                                     </Card.Text>
-                                    <Card.Link href="#">Read more</Card.Link>
+                                    <Card.Link href="#" style={{color:'rgb(146 158 175)'}}>Read more</Card.Link>
                                 </Card.Body>
                                 </Card>
                            </div>
@@ -47,7 +47,7 @@ export default function Home()
                                     <Card.Text style= {{fontStyle:'italic', fontWeight:'300',zIndex: '-1'}}>
                                     Committed to excellence, integrity, client success and mutual respect, we empower business to achieve their organizational goals.
                                     </Card.Text>
-                                    <Card.Link href="#">Read more</Card.Link>
+                                    <Card.Link href="#" style={{color:'rgb(146 158 175)'}}>Read more</Card.Link>
                                 </Card.Body>
                                 </Card>
                            </div>
