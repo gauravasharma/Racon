@@ -20,7 +20,7 @@ export default function Home()
          <>       
           <Container fluid>
             <Row style={{marginTop:'0.5rem'}}>
-            <Col xs={8} style={{marginRight: '-1rem'}}>
+            <Col xs={16} md={12} lg={8} style={{marginRight: '-1rem'}}>
                 <Row  className='h-40'>
                     <Col><Image src={homepage} width='100%' height='100%'/></Col>
                 </Row>
